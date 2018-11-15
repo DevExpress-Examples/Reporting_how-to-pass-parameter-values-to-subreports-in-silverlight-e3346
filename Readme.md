@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/SilverlightApplication15/MainPage.xaml) (VB: [MainPage.xaml](./VB/SilverlightApplication15/MainPage.xaml))
+* **[PageViewModel.cs](./CS/SilverlightApplication15/PageViewModel.cs) (VB: [PageViewModel.vb](./VB/SilverlightApplication15/PageViewModel.vb))**
+<!-- default file list end -->
 # How to pass parameter values to subreports in Silverlight
 
 
